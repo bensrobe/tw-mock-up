@@ -1,9 +1,7 @@
 ---
 templateKey: product-page
 path: /products
-title: >-
-  Look heres some coffe for you brandon take a nap later drink this coffe now
-  hehe
+title: Hot Coffee
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
